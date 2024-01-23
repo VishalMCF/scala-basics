@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bb5cd6-8722-4dc0-b0d6-bbc3cb59d1fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/FunctionExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/mainfeatures/scala-features-readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/variablesandtypes/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/mainfeatures" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.FunctionExercise">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
@@ -128,7 +134,10 @@
       <option name="presentableId" value="Default" />
       <updated>1704473211303</updated>
       <workItem from="1704473212668" duration="2077000" />
-      <workItem from="1704483061203" duration="3230000" />
+      <workItem from="1704483061203" duration="4485000" />
+      <workItem from="1706002408735" duration="1684000" />
+      <workItem from="1706005011740" duration="76000" />
+      <workItem from="1706005212232" duration="1093000" />
     </task>
     <servers />
   </component>
